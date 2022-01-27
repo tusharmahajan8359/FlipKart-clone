@@ -1,0 +1,270 @@
+.flex{
+    display: flex;
+}
+
+.navcolor{
+    background-color: blue;
+    width: 100%;
+    
+}
+.icondiv{
+    height: 40px;
+    width: 100px;
+    font-size: 10px;
+    font-style: none;
+   
+}
+.fimg{
+    padding-top: 5px;
+    height: 18px;
+    width: 75px;
+}
+.explore{
+    color: white;
+    font-style: italic;
+}
+.plusicon{
+
+    height: 9px;
+    width: 12px;
+}
+.searchboxdiv{
+
+    margin-top: 2px;
+    background-color:white;
+    height: 35px;
+    width: 27.8%;
+}
+.searchbox{
+    width: 84%;
+    margin-top: 3px;
+    margin-left: 2%;
+    border:none ;
+    outline: none;
+}
+.searchbutton{
+   height: 30px;
+   width: 11%;
+   background-color: transparent;
+   border:none;
+}
+.fa-search{
+    width: 80%;
+    color:blue;
+}
+.loginbuttondiv{
+    margin-left: 30px;
+    width:5.5%;
+    height:40px;
+    
+}
+.lbutton{
+        margin-top: 9px;
+        margin-left: 0px;
+        color:blue;
+        font-size: 10px;
+        background-color: white;
+        border:none;
+        width:69px;
+        height: 22px;
+    
+}
+.selectdiv{
+          height: 40px;
+          width:5.5%;
+          
+}
+.select{
+         background-color: transparent;
+         margin-left: 31px;
+         margin-top: 12px;
+         border:none;
+         outline: none;
+         color:white;
+}
+.cartdiv{
+    height: 40px;
+    width:6.5%;
+    
+}
+.carticon{
+    margin-right: 5px;;
+}
+.cart{
+      margin-top: 7px;
+      margin-left: 0px;  
+      border:none;
+      color:white;
+      background-color: transparent;
+}
+
+.p-text:hover{
+    font-weight: bold;
+    color:rgb(66, 66, 248);
+}
+.mobilerow{
+    justify-content: space-between;
+}
+.mobilesdiv1{
+    height:110px;
+    width:84px;
+    text-align: center;
+    margin-left: 1px;
+  cursor: pointer;
+    
+}
+.mobilesdiv{
+      height:110px;
+      width:84px;
+      text-align: center;
+      margin-left: 10px;
+    cursor: pointer;
+      
+}
+.mobileimg{
+      height:64px;
+      width:64px;
+      margin-top: 12px;
+      
+}
+.sliderdiv{
+     height: 260px;
+}
+.sliderimg{
+    height: 250px;
+    width:100%;
+}
+
+.poster{
+    background-color: white;
+}
+.navcontainer{
+    background-color: blue;
+}
+.itemcontainer{
+    margin-top: 10px;
+}
+.deal{
+    height: 50px;
+    background-color: rgb(251, 253, 253);
+}
+
+.productContainer{
+   justify-content: space-between;
+}
+.DealOfTheday{
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(251, 253, 253);
+}
+h3{
+    padding:9px 12px 0px ;
+    
+}
+.fa-clock-o{
+    color:rgb(172, 240, 252);
+}
+.timmer{
+    padding:14px 0px ;
+    color: rgb(82, 73, 73);
+    font-size: 12px;
+}
+.viewbutton{
+    color: white;
+    height:23px;
+    width: 76px;
+    font-size: 10px;
+    
+    background-color: rgb(55, 122, 247);
+    border:none;
+    outline: none;
+    margin: 10px 20px;
+    justify-content: space-between;
+    
+}
+
+.advertisement{
+    height: 100%;
+    width: 100%;
+}
+
+
+.posterdiv{
+    min-height:250px;
+    width:100%;
+    background-color: brown;
+}
+.postercol{
+    min-height:250px;
+}
+.itemsdiv{ 
+    margin-top: 2px;
+    height: 208px;
+    display:flex;
+    justify-content: space-between;
+    background-color:white;
+}
+.productdiv{
+    /* margin-left: 2px; */
+     height: 208px;
+     width:110px;
+     text-align: center;
+     background-color:white;
+}
+.productimg{
+     padding-top: 20px;
+     padding-bottom: 5px;
+     height:117px;
+    
+}
+.productname{
+    font-size: 10px;
+     
+}
+.offer{
+color: green;
+padding-top: 4px;
+font-size: 10px;
+height: 500;
+}
+.line3{
+color: rgb(115, 117, 117);
+padding-top: 4px;
+font-size: 10px;
+}
+
+
+.Instruments{
+    height: 50px;
+   
+    background-color:white;
+}
+.instrumentsHeading{
+    height: 50px;
+    width: 300px;
+
+    float:left;
+}
+.instrumrntbutton{
+    height: 50px;
+    float:right;
+}
+.shopnow{
+    color: rgb(115, 117, 117);
+    font-size: 10px;
+    padding-left: 12px;
+}
+
+.footercolor{
+    background-color: blue;
+    color: white;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+.backcolor{
+    background-color: rgb(60, 60, 206);
+}
